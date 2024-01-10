@@ -1,4 +1,4 @@
-![image](https://github.com/MahmoudWafdy/Quran-Tab/assets/47063537/d072ff00-6cd7-4f38-9921-6025d7eab88b)## Overview
+## Overview
 This project was apply CSS, and HTML lessons, showcasing proficiency in web development technologies, including HTML, CSS, Flexbox. The goal of this project was to demonstrate skills in creating a responsive and visually appealing web application.
 
 ## Technologies Used
