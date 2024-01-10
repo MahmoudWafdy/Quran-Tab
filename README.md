@@ -22,7 +22,7 @@ Find the source code in this [GitHub repository](https://github.com/MahmoudWafdy
 
 ## Preview
 ![website photo](./images/Capture1.JPG)
-
+![website photo](./images/Capture1.JPG) 
 ## How to Run
 1. Clone the repository: `git clone https://github.com/your-username/frontmeetor-challenge.git`
 2. Navigate to the project directory: `cd frontmeetor-challenge`
