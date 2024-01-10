@@ -1,4 +1,4 @@
-## Overview
+![image](https://github.com/MahmoudWafdy/Quran-Tab/assets/47063537/d072ff00-6cd7-4f38-9921-6025d7eab88b)## Overview
 This project was apply CSS, and HTML lessons, showcasing proficiency in web development technologies, including HTML, CSS, Flexbox. The goal of this project was to demonstrate skills in creating a responsive and visually appealing web application.
 
 ## Technologies Used
@@ -21,7 +21,7 @@ Visit the live website [My website](https://mahmoudwafdy.github.io/Quran-Tab/).
 Find the source code in this [GitHub repository](https://github.com/MahmoudWafdy/Quran-Tab).
 
 ## Preview
-![website photo](./assets/screen1.JPG) 
+![website photo](./images/Capture1.JPG) 
 
 ## How to Run
 1. Clone the repository: `git clone https://github.com/your-username/frontmeetor-challenge.git`
